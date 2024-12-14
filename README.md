@@ -12,14 +12,13 @@ Bienvenido a mi perfil de GitHub, un espacio donde comparto proyectos y aprendiz
 - **Frameworks y Herramientas:** TensorFlow, PyTorch, Keras, OpenCV, React.  
 - **Otras habilidades:** Visualización de datos, Git y HTML/CSS.  
 
-<!-- Añadir los repositorios que me faltan 
-<!--
+<!-- Añadir los repositorios que me faltan -->
 ## 💻 Proyectos Destacados  
 1. [**Detección de Vehículos con YOLOv8**](https://github.com/DonLuisM/vehicles-detection)  
-   - Utiliza YOLOv8 y dataset personalizado para identificar vehículos en tiempo real.  
-2. [**Asistente Médico Inteligente**](https://github.com/DonLuisM/medical-ai-chatbot)  
-   - Chatbot con capacidades de diagnóstico preliminar basado en ML y PNL.
--->
+   - Utiliza una interfaz de usuario para subir imágenes o capturar en tiempo real 5 posibles clases de vehículos con un modelo YOLOv8 y dataset personalizado para identificar los vehículos.  
+2. sdasd
+
+Dataset Forest Fires to predict the burned area of forest fires, in the northeast region of Portugal. Credits to: Paulo Cortez and Anbal Morais
 
 <!--
 ## 📫 Contáctame  
