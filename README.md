@@ -14,11 +14,8 @@ Bienvenido a mi perfil de GitHub, un espacio donde comparto proyectos y aprendiz
 
 <!-- Añadir los repositorios que me faltan -->
 ## 💻 Proyectos Destacados  
-1. [**Detección de Vehículos con YOLOv8**](https://github.com/DonLuisM/vehicles-detection)  
+1. [**Detección de Vehículos con YOLOv8**](https://github.com/DonLuisM/Vehicles_detection_YOLO.git)  
    - Utiliza una interfaz de usuario para subir imágenes o capturar en tiempo real 5 posibles clases de vehículos con un modelo YOLOv8 y dataset personalizado para identificar los vehículos.  
-2. sdasd
-
-Dataset Forest Fires to predict the burned area of forest fires, in the northeast region of Portugal. Credits to: Paulo Cortez and Anbal Morais
 
 <!--
 ## 📫 Contáctame  
