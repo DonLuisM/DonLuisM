@@ -5,12 +5,13 @@
 # 👋 Hola, soy Luis Muñoz (@DonLuisM)  
 Bienvenido a mi perfil de GitHub, un espacio donde comparto proyectos y aprendizajes con lenguajes de programación. 🚀  
 
-- 🌱 **Actualmente aprendiendo:** Visión por Computador, Aprendizaje Profundo y Modelos de Detección de Objetos (como YOLO).  
+- 🌱 **Actualmente aprendiendo:** Visión por Computador, Aprendizaje Profundo, Docker, SQL y HTML/CSS/JS.
+- 💡 **Áreas de interés:** AI Médica, Bioingeniería, Sistemas de Diagnóstico, Deep Learning, Aprendizaje por Refuerzo y Chatbots Inteligentes.   
 
 ## 🛠️ Habilidades  
-- **Lenguajes de Programación:** Python, JavaScript.  
+- **Lenguajes de Programación:** Python, JavaScript, HTML/CSS, SQL.  
 - **Frameworks y Herramientas:** TensorFlow, PyTorch, Keras, OpenCV, React.  
-- **Otras habilidades:** Visualización de datos, Git y HTML/CSS.  
+- **Otras habilidades:** Visualización de datos, Aprendizaje Automático y Git.  
 
 <!-- Añadir los repositorios que me faltan -->
 ## 💻 Proyectos Destacados  
