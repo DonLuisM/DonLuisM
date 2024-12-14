@@ -1,6 +1,6 @@
 [![Texto](https://img.shields.io/badge/Etiqueta-Valor-COLOR?style=ESTILO&logo=LOGO)]()
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=6000&pause=1000&color=1E90FF&repeat=false&width=440&lines=%C2%A1Bienvenido+a+mi+perfil+de+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=6000&pause=1000&color=1E90FF&repeat=true&width=440&lines=%C2%A1Bienvenido+a+mi+perfil+de+GitHub!)](https://git.io/typing-svg)
 
 # 👋 Hola, soy Luis Muñoz (@DonLuisM)  
 Bienvenido a mi perfil de GitHub, un espacio donde comparto proyectos y aprendizajes con lenguajes de programación. 🚀  
