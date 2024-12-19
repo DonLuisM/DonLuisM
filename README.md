@@ -7,8 +7,8 @@
 # 👋 Hola, soy Luis Muñoz (@DonLuisM)  
 Bienvenido a mi perfil de GitHub, un espacio donde comparto proyectos y aprendizajes con lenguajes de programación. 🚀  
 
-- 🌱 **Actualmente aprendiendo:** Visión por Computador, Aprendizaje Profundo, Docker, SQL y HTML/CSS/JS.
-- 💡 **Áreas de interés:** AI Médica, Bioingeniería, Sistemas de Diagnóstico, Deep Learning, Aprendizaje por Refuerzo y Chatbots Inteligentes.   
+- 🌱 **Actualmente aprendiendo:** Visión por Computador, Aprendizaje Por Refuerzo, Docker, SQL y Full-Stack.
+- 💡 **Áreas de interés:** Desarrollo de aplicaciones, AI Médica, Bioingeniería, Sistemas de Diagnóstico, Deep Learning, Aprendizaje por Refuerzo y Chatbots Inteligentes.   
 
 <!-- Añadir los repositorios que me faltan -->
 ## 💻 Proyectos Destacados  
