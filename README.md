@@ -13,10 +13,9 @@ Bienvenido a mi perfil de GitHub, un espacio donde comparto proyectos y aprendiz
 <!-- Añadir los repositorios que me faltan -->
 ## 💻 Proyectos Destacados  
 1. [**Detección de Vehículos con YOLOv8**](https://github.com/DonLuisM/Vehicles_detection_YOLO.git)  
-   - Desarrollé un sistema de detección de vehículos basado en el modelo YOLOv8, que utiliza una interfaz de usuario intuitiva para subir imágenes o realizar capturas en tiempo real. Este proyecto identifica cinco clases de vehículos (bote, bus, camión, carro y helicóptero) utilizando un dataset personalizado para optimizar la precisión en diversas condiciones. Futuras proyecciones: Aplicaciones en monitoreo de tráfico y análisis de transporte, mejora de modelo para implementar en vías.
+   - Desarrollé un sistema de detección de vehículos basado en el modelo YOLOv8, que utiliza una interfaz de usuario intuitiva para subir imágenes o realizar capturas en tiempo real. Este proyecto identifica cinco clases de vehículos (bote, bus, camión, carro y helicóptero) utilizando un dataset personalizado para optimizar la precisión en diversas condiciones. <br><em>Futuras proyecciones:</em> Aplicaciones en monitoreo de tráfico y análisis de transporte, mejora de modelo para implementar en vías.
 2. [**Conversión de pintura a imagen usando P2P**](https://github.com/DonLuisM/Pix2Pix.git)  
-   - Por medio del entrenamiento de redes antagónicas generativas condicionales (cGAN) realiza el mapeo de 150 imágenes acerca de monumentos, realizando una aproximación a su imagen real.
-
+   - Implementé un modelo basado en redes antagónicas generativas condicionales (cGAN), específicamente Pix2Pix, para transformar pinturas artísticas en aproximaciones realistas. El modelo fue entrenado con 150 imágenes de monumentos, las cuales inicialmente fueron convertidas a pintura con filtros de la librería CV2, logrando un mapeo de alta fidelidad que recrea detalles de la apariencia original. <br><em>Futuras proyecciones:</em> Mejora del modelo para mayor fidelidad en la apariencia original, tomando los mínimos detalles.
 
 ## 🛠️ Habilidades y lenguajes
 ### Lenguajes:
