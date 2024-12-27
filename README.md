@@ -14,6 +14,8 @@ Bienvenido a mi perfil de GitHub, un espacio donde comparto proyectos y aprendiz
 ## 💻 Proyectos Destacados  
 1. [**Detección de Vehículos con YOLOv8**](https://github.com/DonLuisM/Vehicles_detection_YOLO.git)  
    - Utiliza una interfaz de usuario para subir imágenes o capturar en tiempo real 5 posibles clases de vehículos con un modelo YOLOv8 y dataset personalizado para identificar los vehículos.
+2. [**Conversión de pintura a imagen usando P2P**](https://github.com/DonLuisM/Pix2Pix.git)  
+   - Por medio del entrenamiento de redes antagónicas generativas condicionales (cGAN) realiza el mapeo de 150 imágenes acerca de monumentos, realizando una aproximación a su imagen real.
 
 
 ## 🛠️ Habilidades y lenguajes
