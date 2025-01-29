@@ -22,7 +22,7 @@ Bienvenido a mi perfil de GitHub, un espacio donde comparto proyectos y aprendiz
 > [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,arduino)](https://skillicons.dev)
 
 ### Software y herramientas:
-> [![Software](https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,react,tailwind,vscode)](https://skillicons.dev)
+> [![Software](https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,nodejs,react,tailwind,vscode)](https://skillicons.dev)
 
 ### Habilidades:
 > [![Habilities](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
