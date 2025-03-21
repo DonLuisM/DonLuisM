@@ -19,7 +19,7 @@ Bienvenido a mi perfil de GitHub, un espacio donde comparto proyectos y aprendiz
 
 ## 🛠️ Habilidades y lenguajes
 ### Lenguajes:
-> [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,arduino)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,arduino,flask)](https://skillicons.dev)
 
 ### Software y herramientas:
 > [![Software](https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,nodejs,react,tailwind,vscode)](https://skillicons.dev)
@@ -28,7 +28,7 @@ Bienvenido a mi perfil de GitHub, un espacio donde comparto proyectos y aprendiz
 > [![Habilities](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ### Aprendiendo:
-> [![Learning](https://skillicons.dev/icons?i=docker,mysql,threejs)](https://skillicons.dev)
+> [![Learning](https://skillicons.dev/icons?i=docker,mysql,threejs,linux,ubuntu)](https://skillicons.dev)
 
 
 
