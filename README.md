@@ -24,13 +24,13 @@ Welcome to my GitHub profile, a space where I share projects and learnings with 
 > [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,arduino,flask)](https://skillicons.dev)
 
 ### Software and Tools:
-> [![Software](https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,nodejs,react,tailwind,vscode)](https://skillicons.dev)
+> [![Software](https://skillicons.dev/icons?i=anaconda,tensorflow,sklearn,opencv,nodejs,react,tailwind,vscode)](https://skillicons.dev)
 
 ### Skills:
 > [![Habilities](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ### Curently Learning:
-> [![Learning](https://skillicons.dev/icons?i=docker,mysql,threejs,linux,ubuntu)](https://skillicons.dev)
+> [![Learning](https://skillicons.dev/icons?i=docker,mysql,threejs,linux,ubuntu,azure)](https://skillicons.dev)
 
 <!-- 
 ## 📫 Contáctame  
