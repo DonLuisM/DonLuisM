@@ -1,40 +1,43 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=%C2%A1Bienvenido+a+mi+perfil+de+GitHub!;Entusiasta+en+modelos+IA;Apasionado+por+el+Machine+Learning;Desarrollador+Web+Full-Stack" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;AI+Models+Enthusiast;Passionate+about+Machine+Learning;Full-Stack+Web+Developer" alt="Typing SVG" />
   </a>
 </div>
 
-# 👋 Hola, soy Luis Muñoz (@DonLuisM)  
-Bienvenido a mi perfil de GitHub, un espacio donde comparto proyectos y aprendizajes con lenguajes de programación. 🚀  
+# 👋 Hi, I'm Luis Muñoz (@DonLuisM)  
+Welcome to my GitHub profile, a space where I share projects and learnings with programming languages. 🚀  
 
-- 🌱 **Actualmente aprendiendo:** Visión por Computador, Aprendizaje Por Refuerzo, Docker, SQL y Full-Stack.
-- 💡 **Áreas de interés:** Desarrollo de aplicaciones, AI Médica, Bioingeniería, Sistemas de Diagnóstico, Deep Learning, Aprendizaje por Refuerzo y Chatbots Inteligentes.   
+- 🎓 **Currently pursuing a postgraduate degree** focused on Artificial Intelligence
+- 💡 **Areas of Interest:** Application Development, Medical AI, Bioengineering, Diagnostic Systems, Deep Learning, Reinforcement Learning, and Smart Chatbots.   
 
 <!-- Añadir los repositorios que me faltan -->
-## 💻 Proyectos Destacados  
-1. [**Detección de Vehículos con YOLOv8**](https://github.com/DonLuisM/Vehicles_detection_YOLO.git)  
-   - Desarrollé un sistema de detección de vehículos basado en el modelo YOLOv8, que utiliza una interfaz de usuario intuitiva para subir imágenes o realizar capturas en tiempo real. Este proyecto identifica cinco clases de vehículos (bote, bus, camión, carro y helicóptero) utilizando un dataset personalizado para optimizar la precisión en diversas condiciones. <br><br><em>Futuras proyecciones:</em> Aplicaciones en monitoreo de tráfico y análisis de transporte, mejora de modelo para implementar en vías.
-2. [**Conversión de pintura a imagen usando P2P**](https://github.com/DonLuisM/Pix2Pix.git)  
-   - Implementé un modelo basado en redes antagónicas generativas condicionales (cGAN), específicamente Pix2Pix, para transformar pinturas artísticas en aproximaciones realistas. El modelo fue entrenado con 150 imágenes de monumentos, las cuales inicialmente fueron convertidas a pintura con filtros de la librería CV2, logrando un mapeo de alta fidelidad que recrea detalles de la apariencia original. <br><br><em>Futuras proyecciones:</em> Mejora del modelo para mayor fidelidad en la apariencia original, tomando los mínimos detalles.
+## 💻 Featured Projects  
+1. [**Vehicle Detection with YOLOv8**](https://github.com/DonLuisM/Vehicles_detection_YOLO.git)  
+   - I developed a vehicle detection system based on the YOLOv8 model, featuring an intuitive user interface for uploading images or capturing in real time. This project identifies five vehicle classes (boat, bus, truck, car, and helicopter) using a customized dataset to optimize accuracy in various conditions. <br><br><em>Future projections:</em> Applications in traffic monitoring and transportation analysis, improving the model for deployment on roads.  
 
-## 🛠️ Habilidades y lenguajes
-### Lenguajes:
+2. [**Painting-to-Image Conversion using P2P**](https://github.com/DonLuisM/Pix2Pix.git)  
+   - I implemented a model based on conditional generative adversarial networks (cGANs), specifically Pix2Pix, to transform artistic paintings into realistic approximations. The model was trained with 150 images of monuments, initially converted into paintings using CV2 library filters, achieving high-fidelity mapping that recreates details of the original appearance. <br><br><em>Future projections:</em> Enhancing the model for greater fidelity to the original appearance, capturing the smallest details.  
+
+
+## 🛠️ Skills and Technologies
+### Languages:
 > [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,arduino,flask)](https://skillicons.dev)
 
-### Software y herramientas:
+### Software and Tools:
 > [![Software](https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,nodejs,react,tailwind,vscode)](https://skillicons.dev)
 
-### Habilidades:
+### Skills:
 > [![Habilities](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
-### Aprendiendo:
+### Curently Learning:
 > [![Learning](https://skillicons.dev/icons?i=docker,mysql,threejs,linux,ubuntu)](https://skillicons.dev)
 
-
-
-<!--
+<!-- 
 ## 📫 Contáctame  
+- ✉️ **Email:** lfmb03@outlook.com  
 - 🌐 **Portafolio:** [donluism.dev](https://tu-portafolio.com)  
 - 💼 **LinkedIn:** [Luis Mejía](https://www.linkedin.com/in/tu-perfil/)  
-- ✉️ **Correo:** donluis@gmail.com  
 -->
+
+
+
