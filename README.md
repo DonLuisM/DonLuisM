@@ -16,7 +16,10 @@ Welcome to my GitHub profile, a space where I share projects and learnings with 
    - I developed a vehicle detection system based on the YOLOv8 model, featuring an intuitive user interface for uploading images or capturing in real time. This project identifies five vehicle classes (boat, bus, truck, car, and helicopter) using a customized dataset to optimize accuracy in various conditions. <br><br><em>Future projections:</em> Applications in traffic monitoring and transportation analysis, improving the model for deployment on roads.  
 
 2. [**Painting-to-Image Conversion using P2P**](https://github.com/DonLuisM/Pix2Pix.git)  
-   - I implemented a model based on conditional generative adversarial networks (cGANs), specifically Pix2Pix, to transform artistic paintings into realistic approximations. The model was trained with 150 images of monuments, initially converted into paintings using CV2 library filters, achieving high-fidelity mapping that recreates details of the original appearance. <br><br><em>Future projections:</em> Enhancing the model for greater fidelity to the original appearance, capturing the smallest details.  
+   - I implemented a model based on conditional generative adversarial networks (cGANs), specifically Pix2Pix, to transform artistic paintings into realistic approximations. The model was trained with 150 images of monuments, initially converted into paintings using CV2 library filters, achieving high-fidelity mapping that recreates details of the original appearance. <br><br><em>Future projections:</em> Enhancing the model for greater fidelity to the original appearance, capturing the smallest details.
+  
+3. [**Book Manager API**](https://github.com/DonLuisM/BookManager.git)
+   - I developed a Node.js and Express-based API to manage a collection of books through CRUD operations. The data is stored in a JSON file, allowing users to create, read, update, and delete book information, such as title, author, genre, language, price, availability, and rating. The project features an intuitive interface that allows users to interact with the book data easily. <br><br><em>Future Projections:</em> Implementing a more robust database like MySQL. Adding a JWT authentication for secure user access. Deploying the API for public access so that everyone can use it online.
 
 
 ## 🛠️ Skills and Technologies
