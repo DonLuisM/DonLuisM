@@ -24,8 +24,8 @@ Welcome to my GitHub profile, a space where I share projects and learnings with 
 
 ## 🛠️ Skills and Technologies
 ### Tech Stack:
-> [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,arduino,flask)](https://skillicons.dev)
-> [![Software](https://skillicons.dev/icons?i=anaconda,tensorflow,sklearn,opencv,nodejs,react,tailwind,vscode)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,arduino,flask,anaconda)](https://skillicons.dev)
+> [![Software](https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,nodejs,react,tailwind,vscode)](https://skillicons.dev)
 > [![Habilities](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ### Curently Learning:
